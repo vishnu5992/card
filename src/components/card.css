@@ -1,0 +1,48 @@
+.card{
+    display: flex;
+    justify-content: space-between;
+    height: 28em;
+
+
+}
+.content{
+
+
+    background-color: blue;
+     display: flex;
+     height: 400px;
+     width: 20%;
+     margin-top: 20px;
+     padding: 10px;
+     text-align: center;
+     flex-direction: column;
+     
+
+     
+
+}
+.main{
+    background-color: crimson;
+    height: 400px;
+    width: 20%;
+    display: flex;
+    margin-top: 20px;
+    text-align: center;
+    flex-direction: column;
+    padding: 10px;
+
+
+    
+}
+.about{
+    background-color: lightgoldenrodyellow;
+    height: 400px;
+    width: 20%;
+    margin-top: 20px;
+    display: flex;
+    padding: 10px;
+    text-align: center;
+    flex-direction: column;
+
+
+}
